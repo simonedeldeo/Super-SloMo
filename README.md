@@ -1,4 +1,13 @@
 # Super-SloMo [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+
+## Difference from the master branch
+**The whole notebooks folder is new: it contains python notebooks ready to run on Google Colab**
+It includes a way to interpolate single images instead of a full video
+
+
+---
+
+
 PyTorch implementation of "Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation" by Jiang H., Sun D., Jampani V., Yang M., Learned-Miller E. and Kautz J. [[Project]](https://people.cs.umass.edu/~hzjiang/projects/superslomo/) [[Paper]](https://arxiv.org/abs/1712.00080)
 
 ## Results
