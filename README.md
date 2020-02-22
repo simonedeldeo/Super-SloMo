@@ -1,7 +1,7 @@
 # Super-SloMo [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 ## Difference from the master branch
-**The whole notebooks folder is new: it contains python notebooks ready to run on Google Colab**
+**The whole notebooks folder is new: it contains python notebooks ready to run on Google Colab.**
 It includes a way to interpolate single images instead of a full video
 
 
