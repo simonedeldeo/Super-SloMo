@@ -2,7 +2,7 @@
 
 ## Difference from the master branch
 **The whole notebooks folder is new: it contains python notebooks ready to run on Google Colab.**
-It includes a way to interpolate single images instead of a full video
+It includes a way to interpolate single images instead of a full video.
 
 
 ---
